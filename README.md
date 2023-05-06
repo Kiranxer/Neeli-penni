@@ -14,6 +14,11 @@ Neeli- Simple whatsapp Multi Device whatsapp bot.
 
 ### SETUP
 
+## RAILWAY
+Deploy your neeli peeni in railway platform !
+<p align="center">
+<a href="set akkam mwone w8 akk👼🏻"><img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px"></a>
+</p>
 
 
 
