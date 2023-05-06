@@ -8,8 +8,6 @@ Neeli- Simple whatsapp Multi Device whatsapp bot.
 
 <p align="center">
   <a href="https://github.com/Luciferhere2"><img title="Developer" src="https://img.shields.io/badge/Author-Kiran%20Ser-blue.svg?style=for-the-badge&logo=github" /></a>
-</p>
-
 <br />
 
 ***
