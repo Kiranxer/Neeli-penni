@@ -17,7 +17,7 @@ Neeli- Simple whatsapp Multi Device whatsapp bot.
 ## RAILWAY
 Deploy your neeli penni in railway platform !
 <p align="center">
-<a href="set akkam mwone w8 akk👼🏻"><img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px"></a>
+<a href="https://railway.app/template/WAPj4_?referralCode=44iLUn"><img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px"></a>
 </p>
 
 
