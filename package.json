@@ -1,12 +1,12 @@
 {
-  "name": "hermit-md",
+  "name": "Neeli-penni",
   "version": "4.3.6",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "Neeli penni- Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name hermit-md"
+    "start": "pm2 start . --attach --name Neeli-penni"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "KIRAN SER",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
