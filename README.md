@@ -14,6 +14,12 @@ Neeli- Simple whatsapp Multi Device whatsapp bot.
 
 ### SETUP
 
+## `FORK REPO`
+
+- To use This bot you need fork this repository<br>
+
+[Click Here To Fork](https://github.com/Luciferhere2/Neeli-penni/fork)
+
 ## RAILWAY
 Deploy your neeli penni in railway platform !
 <p align="center">
