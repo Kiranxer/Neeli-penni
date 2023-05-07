@@ -1,6 +1,6 @@
-FROM quay.io/hermit/hermit-ser:latest
+FROM quay.io/neeli_penni/neeli:latest
 
-RUN git clone https://github.com/A-d-i-t-h-y-a-n/hermit-md /root/hermit-md
-WORKDIR /root/hermit-md/
+RUN git clone https://github.com/Kiranxer/Neeli-penni /root/Neeli-penni
+WORKDIR /root/Neeli-penni/
 RUN yarn install --network-concurrency 1
 CMD ["node", "index.js", "--max_old_space_size=2560"]
